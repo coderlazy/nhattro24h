@@ -1,0 +1,52 @@
+.login-bar > span{
+    float: right;
+    font-size: 16px;
+    padding-top: 6px;
+    color: #51B310;
+}
+.login-bar > a{
+    text-decoration: none;
+    color: #51B310;
+}
+.login-bar{
+    /*    padding-top: 4px;
+        padding-bottom: 4px;*/
+    line-height: 49px;
+    /*background: #FFBA29;*/
+}
+.register:hover {
+    cursor: pointer;
+}
+.login:hover{
+    cursor: pointer;
+}
+.fa-home{
+    font-size: 50px;
+}
+.name-site{
+    font-size: 20px;
+}
+body{
+    font-family: 'Roboto',sans-serif;
+}
+#search-widget-wrapper{
+    background: #fff url('/images/js-banner.png') no-repeat top center;
+    background-size: cover;
+}
+.key_word{
+    height: 30px;
+}
+.form-group {
+    margin-bottom: 5px;
+}
+.input-data{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.s1{
+    padding: 0 2px;
+    margin-bottom: 5px;
+}
+.s2{
+    padding: 0 2px;
+}
